@@ -18,11 +18,11 @@ The current script is a simple proof of concept. I am looking for a developer to
 
 2. **Functionality Enhancements**
    - Add user-friendly ways for non-technical staff to adjust SKU logic (e.g. bundle rules, stock adjustments).
-   - Support scraping from multiple supplier websites with different layouts.
+   - Support scraping from multiple supplier websites with different layouts (or seperate scraping jobs is an option too).
 
 3. **Error Handling & Logging**
    - Improve handling of timeouts, failed requests, and missing data.
-   - Add logging with clear error messages and optional email/Slack notifications.
+   - Add logging with clear error messages and optional email notifications.
 
 4. **Performance Optimisation**
    - Optimise scraper speed and efficiency.
@@ -39,3 +39,4 @@ The current script is a simple proof of concept. I am looking for a developer to
    - Add comments in the code for easier handover.
 
 ---
+
